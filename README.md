@@ -1,1 +1,2 @@
 # hack-horizons
+#project overview
